@@ -1,0 +1,46 @@
+
+#conteneur{
+	margin: 0% 1%;
+}
+
+body{
+font-family: arial;
+font-size: small;
+}
+h1{
+	text-align: center;
+}
+.Détails{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: -20px;
+	margin-left: 0%;
+	line-height: 38px;
+	padding-left: 0%;
+	
+	
+}
+.Détails li{
+list-style: none;
+
+}
+.Experience{
+	display: flex;
+	justify-content: space-between;
+}
+#Formation{
+	display: flex;
+	justify-content: space-between;
+}
+#Formation ul{
+	list-style: none;
+	margin-left: 16%;
+}
+.parcours{
+         margin-left: 16%;
+		 max-width: 80%;
+		 margin-right: 6%;
+}
+.Experience ul p{
+	margin-left: -5%;
+}
